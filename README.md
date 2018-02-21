@@ -1,7 +1,7 @@
 # Vending-Machine
 Java program which simulates a vending machine and depicts use of new class objects and use cases/sequence diagrams
 
-1. Open Vending Machine program via that /src/VendingMachineDrive.java file.
+1. Open Vending Machine program via the /src/VendingMachineDrive.java file.
 
 2. A user interface should display the products available within the vending machine as well
 as their prices and selection codes. Use this when making product selection and determining
